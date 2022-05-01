@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/backendless-chart/static/css/main.9a7ee61e.css",
+    "main.js": "/backendless-chart/static/js/main.7376c9a0.js",
+    "index.html": "/backendless-chart/index.html",
+    "main.9a7ee61e.css.map": "/backendless-chart/static/css/main.9a7ee61e.css.map",
+    "main.7376c9a0.js.map": "/backendless-chart/static/js/main.7376c9a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a7ee61e.css",
+    "static/js/main.7376c9a0.js"
+  ]
+}
